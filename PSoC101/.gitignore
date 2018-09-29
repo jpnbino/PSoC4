@@ -1,0 +1,15 @@
+#gitignore file
+*.zip
+*.rar
+*.rpt
+*.cyfit
+*.cycdx
+*.jpnb
+*.svd
+*.html
+*.o
+/*.cydsn/Generated_Source/PSoC4/
+/*.cydsn/codegentemp
+/*.cydsn/Export/
+/*.cydsn/CortexM0/
+!/*.cydsn/CortexM0/ARM_GCC_484/Release/*.hex
